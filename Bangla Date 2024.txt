@@ -1,4 +1,4 @@
-﻿<head>
+
     <meta charset="UTF-8" />
 
   <body> 
@@ -90,9 +90,9 @@
     </script>
 
 
- <span id="timeNowBuet" style=""> </span>,<span id="date-today"></span>
+ <span id="timeNowBuet" style=""> </span><span id="date-today"></span>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
-<script src='https://cdn.jsdelivr.net/gh/AhmedMRaihan/BanglaDateJS@master/src/buetDateTime.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/pixeltoart/bangladate@refs/heads/main/buetDateTime.js'></script>
       <script id="rendered-js" >
 var data = new buetDateConverter().convert("  l,  j F, Y (বঙ্গাব্দ)");
 
